@@ -1,3 +1,2 @@
 Este es un documento de prueba
-Este es mi primer cambio
-Este es mi segundo cambio
+Hice un git checkout
