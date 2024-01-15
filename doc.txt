@@ -1,2 +1,5 @@
 Este es un documento de prueba
 Hice un git checkout
+
+
+Esta es una prueba con un usuario adicional
